@@ -26,6 +26,11 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "scheme": "myGoogleApp"
+    "scheme": "myGoogleApp",
+    "extra": {
+      "eas": {
+        "projectId": "c88b52cb-8833-4984-9dd6-cb3f5e6e61b2"
+      }
+    }
   }
 }
